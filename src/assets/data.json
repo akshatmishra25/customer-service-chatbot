@@ -1,0 +1,30 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "How can I reset my online banking password?",
+        "answer": "To reset your online banking password, go to the login page and click on 'Forgot Password'. Follow the instructions to reset your password."
+      },
+      {
+        "id": 2,
+        "question": "How do I check my account balance?",
+        "answer": "You can check your account balance by logging into your online banking account or using our mobile banking app."
+      },
+      {
+        "id": 3,
+        "question": "What should I do if I lose my debit card?",
+        "answer": "If you lose your debit card, please report it immediately by calling our customer service or using the online banking platform to block your card."
+      },
+      {
+        "id": 4,
+        "question": "How do I apply for a loan?",
+        "answer": "To apply for a loan, visit our nearest branch or apply online through our website. You will need to provide necessary documents and complete the application form."
+      },
+      {
+        "id": 5,
+        "question": "What are the current interest rates for savings accounts?",
+        "answer": "The current interest rates for savings accounts can be found on our website under the 'Rates' section or by contacting our customer service."
+      }
+    ]
+  }
+  
